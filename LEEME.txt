@@ -1,0 +1,3 @@
+se debe ejecutar el siguiente comando para utilizar mysql con python
+
+pip install mysql-connector-python
